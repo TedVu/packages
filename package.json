@@ -1,0 +1,19 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedVu/packages.git"
+  },
+  "author": "Ted Vu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TedVu/packages/issues"
+  },
+  "homepage": "https://github.com/TedVu/packages#readme"
+}
